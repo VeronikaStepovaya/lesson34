@@ -1,0 +1,155 @@
+.box1 {
+    width: 700px;
+    height: 900px;
+    background-color: black;
+}
+.img1{
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+.box1 h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.box1 p {
+    color: white;
+}
+.ancher1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ancher1 a{
+    padding: 20px 10px;
+    background-color: red; 
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+.box2 {
+    width: 700px;
+    height: 900px;
+    background-color: darkgray;
+}
+.img2{
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+.box2 h1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+.box2 p {
+    color: rgb(0, 0, 0);
+}
+.ancher2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ancher2 a{
+    padding: 20px 10px;
+    background-color: rgb(0, 0, 0); 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.box3 {
+    width: 700px;
+    height: 900px;
+    background-color: khaki;
+}
+.img3{
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+.box3 h1{
+    color: darkorange;
+    font-size: 30px;
+    text-align: center;
+}
+.box3 p {
+    color: rgb(0, 0, 0);
+}
+.ancher3{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ancher3 a{
+    padding: 20px 10px;
+    background-color: darkorange; 
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.box4 {
+    width: 700px;
+    height: 750px;
+    background-color: rgb(181, 218, 94);
+}
+.img4{
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+.box4 h1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+.box4 p {
+    color: rgb(0, 0, 0);
+}
+.ancher4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ancher4 a{
+    padding: 20px 10px;
+    background-color: rgb(0, 0, 0); 
+    text-decoration: none;
+    color: rgb(181, 218, 94);
+    border-radius: 10px;
+}
+.box5 {
+    width: 700px;
+    height: 800px;
+    background-color: rgb(176, 184, 158);
+}
+.img5{
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+.box5 h1{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-align: center;
+}
+.box5 p {
+    color: rgb(0, 0, 0);
+}
+.ancher5{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ancher5 a{
+    padding: 20px 10px;
+    background-color: rgb(0, 0, 0); 
+    text-decoration: none;
+    color: rgb(176, 184, 158);
+    border-radius: 10px;
+}
